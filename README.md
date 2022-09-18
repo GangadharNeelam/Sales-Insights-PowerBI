@@ -1,2 +1,2 @@
 # Data analysis
-Analysis on sales of a hardware manufacturing company AtliQ. Created a dashboard by using PowerBI whcih gives Key insights, Performance analysis and Performance insights.
+Analysis of sales of a hardware manufacturing company, AtliQ. I created a dashboard by using PowerBI, which gives key insights, performance analysis, and performance insights.
